@@ -1,7 +1,6 @@
 ## Olá pessoal 👋
 
-<! --
-**guilhermelcsc** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
+<! -É uma honra telos neste perfil, vocês podem me chamar pelo nome **Guilherme**, ou de qualquer forma como vocês se sentirem à vontade :)
 
 Aqui estão algumas coisas sobre mim:
 
@@ -13,4 +12,4 @@ Aqui estão algumas coisas sobre mim:
 - 📫 Como entrar em contato comigo: guilherme.cichocki@escola.pr.gov.br
 - 😄 Apelidos: Gui
 - ⚡ Curiosidade: Sou burro mas consideralvelmente inteligente
--->
+--> eu terminei um jogo chamado pong, no site chamado p5.js, caso queira conferir:
